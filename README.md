@@ -1,5 +1,5 @@
 # Adhoc Report on Power BI: Attrited Customer Profile Analysis
-![](Pictures/intro.jpeg)
+![](Pictures/intro.png)
 ***
 
 ## Introduction
