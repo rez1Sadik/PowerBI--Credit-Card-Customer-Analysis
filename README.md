@@ -39,22 +39,7 @@ __#Module 1:__ Data Pre-processing on **Python**.
     - users
  2. Generating tables using the cleaned dataset
    
-__#Module 2:__ Data Analysing using **SQL**.
 
-1. Find the 5 oldest users.
-2. What day of the week do most users register on?
-3. To target our inactive users with an email campaign. Find the users who have never posted a photo.
-4. Who won the new contest to see who can get the most likes on a single photo?
-5. How many times does the average user post? 
-6. What is the user ranking by postings higher to lower?
-7. Total posts by users.
-8. Total numbers of users who have posted at least one time
-9. A brand wants to know which hashtags to use in a post. What are the top 5 most commonly used hashtags?
-10. We have a small problem with bots on our site. Find users who have liked every single photo on the site?
-11. We also have a problem with celebrities. Find users who have never commented on a photo?
-12. Are we overrun with bots and celebrity accounts? Find the percentage of our users who have either never commented on a photo or have commented on every photo?
-13. Find users who have ever commented on a photo?
-14. Are we overrun with bots and celebrity accounts? Find the percentage of our users who have either never commented on a photo or have commented on photos before.
 
 
 
