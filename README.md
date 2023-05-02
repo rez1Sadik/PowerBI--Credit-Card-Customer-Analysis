@@ -58,7 +58,7 @@ Here, the following insights could be discovered:
 1. __Demographic__: 
      -  Average period of relationship with the bank is 3 years. 
      -  Average customer age is 46 years. 
-     -  Blue card has highest percentage of consumers almost 94%. 
+     -  Blue card has the highest percentage of consumers almost 94%. 
      -  The Q&A portion is going to help the user build reports based on autometic queries swiftly.   
 ![](Pictures/demographic.png)
 ***
@@ -69,19 +69,20 @@ Here, the following insights could be discovered:
 3. __Key Influencers__:
    -  For the better representation of the population relatice count type is used in the analysis and sorted by count. 
    -  Taking the following image as an example, it might be tempting to choose the key influencer who has been inactive for 0 or less months over the past 12 months. However, given that it only has 29 instances, that would only offer incorrect insight.
-   -  One of the main determining factors is whether a client has been inactive for at least two months during the previous twelve months. This is more logical.  
+   -  One of the main determining factors is whether a client has been inactive for at least two months during the previous 12 months. This is more logical.  
 ![](Pictures/KI_1.png)
-
+   -  The average utilization ratio being under 0.25 is another deciding factor. This suggests that the customer is making use of a different brand of credit card. Because people's spending habits are hard-wired, they prefer to swap out commodities (like credit cards) for better ones.  
+ 
 ![](Pictures/KI_2.png)
-![](Pictures/customer_profile.png)
+***
+4. __Customer Profile__:
+   -  Here the age bins are: 26-41;42-56;57+
+   -  Total transactions count in a year bins are:  0-10; 11-32;33-53;54-75
+   -  Credit card average limit bins are: $0-$1438;$1439-$3506;etc
+   -  According to the analysis, another prospective attrition client is a female between the ages of 42 and 56 who earns under $40k with a graduate degree, has a credit limit under $1438, and transacts with our credit card on average between 11 and 32 times a year.  
 
 
 
-   -  
-"The Oyinbooke" is the most active user of the hashtags.
-61% of those engaging with the hashtag do it using Android devices.
-Just 9% of the users tweet with iPhone.
-The users engage mostly on weekdays especially Wednesday and lowest on weekends.
 
 
 
