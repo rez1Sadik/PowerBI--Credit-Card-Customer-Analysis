@@ -51,17 +51,26 @@ A business manager of a consumer credit card portfolio is facing the problem of 
 
 
 
-## Analysis and Visualization
+## Findings and Visualization
+
+
+![](Pictures/demographic.png)
 
 ![](Pictures/avg_ut_vs_credit_lim.png)
 
 ![](Pictures/KI_1.png)
 
-It appears that there are more positive reviews than negative ones, however the dataset does not follow the normal data trend. 
-In support of our hypothesis based on Table 1, Table 2 shows the supporting data.
-
 ![](Pictures/KI_2.png)
 ![](Pictures/customer_profile.png)
+
+Here, the following insights could be discovered:
+
+-  There has been 674 tweets from 204 people within the first 2 months of showcasing the #30days of learning program on twitter.
+-  There has been an exponential increase in amount of tweet in June from the first month May.
+"The Oyinbooke" is the most active user of the hashtags.
+61% of those engaging with the hashtag do it using Android devices.
+Just 9% of the users tweet with iPhone.
+The users engage mostly on weekdays especially Wednesday and lowest on weekends.
 
 
 
