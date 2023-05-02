@@ -53,7 +53,6 @@ A business manager of a consumer credit card portfolio is facing the problem of 
 
 ## Analysis and Visualization
 
-![](Pictures/demographic.png)
 ![](Pictures/avg_ut_vs_credit_lim.png)
 
 ![](Pictures/KI_1.png)
