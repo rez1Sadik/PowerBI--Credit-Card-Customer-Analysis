@@ -81,7 +81,7 @@ Here, the following insights could be discovered:
    -  Credit card average limit bins are: $0-$1438;$1439-$3506;etc
    -  According to the analysis, another prospective attrition client is a female between the ages of 42 and 56 who earns under $40k with a graduate degree, has a credit limit under $1438, and transacts with our credit card on average between 11 and 32 times a year.  
 
-
+![](Pictures/customer_profile.png)
 
 
 
