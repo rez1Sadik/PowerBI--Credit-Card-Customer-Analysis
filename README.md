@@ -67,7 +67,7 @@ Here, the following insights could be discovered:
 ![](Pictures/avg_ut_vs_credit_lim.png)
 ***
 3. __Key Influencers__:
-   -  For the better representation of the population relatice count type is used in the analysis and sorted by count. 
+   -  For the better representation of the population relative count type is used in the analysis and sorted by count. 
    -  Taking the following image as an example, it might be tempting to choose the key influencer who has been inactive for 0 or less months over the past 12 months. However, given that it only has 29 instances, that would only offer incorrect insight.
    -  One of the main determining factors is whether a client has been inactive for at least two months during the previous 12 months. This is more logical.  
 ![](Pictures/KI_1.png)
