@@ -6,6 +6,16 @@
 
 A manager at the bank is disturbed with more and more customers leaving their credit card services. They would really appreciate if one could predict for them who is gonna get churned so they can proactively go to the customer to provide them better services and turn customers' decisions in the opposite direction.
 
+The aim of this project is to exhibit my skills in analyzing and visualizing credit card data with user friendly navigation using Power BI.
+
+The Report consists of five pages:
+
+-  Home 
+-  Demographic
+-  Avg. Utilization vs Credit limit
+-  Key Influencers
+-  Customer Profile
+
 
 ## Data Source 
 I have used the data available at Kaggle website (_[Credit Card customers dataset, 2021](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)_). The dataset fulfils the requirements for the project and is in the CSV format. 
