@@ -53,20 +53,31 @@ A business manager of a consumer credit card portfolio is facing the problem of 
 
 ## Findings and Visualization
 
+Here, the following insights could be discovered:
 
+1. __Demographic__: 
+     -  Average period of relationship with the bank is 3 years. 
+     -  Average customer age is 46 years. 
+     -  Blue card has highest percentage of consumers almost 94%. 
+     -  The Q&A portion is going to help the user build reports based on autometic queries swiftly.   
 ![](Pictures/demographic.png)
-
+***
+2. __Avg. Utilization vs Credit limit__:
+   -  Based on the average credit limit and average utilization ratio we can identify that people with low income has lower credit limit and high credit card avg. utilization rate.
 ![](Pictures/avg_ut_vs_credit_lim.png)
-
+***
+3. __Key Influencers__:
+   -  For the better representation of the population relatice count type is used in the analysis and sorted by count. 
+   -  Taking the following image as an example, it might be tempting to choose the key influencer who has been inactive for 0 or less months over the past 12 months. However, given that it only has 29 instances, that would only offer incorrect insight.
+   -  One of the main determining factors is whether a client has been inactive for at least two months during the previous twelve months. This is more logical.  
 ![](Pictures/KI_1.png)
 
 ![](Pictures/KI_2.png)
 ![](Pictures/customer_profile.png)
 
-Here, the following insights could be discovered:
 
--  There has been 674 tweets from 204 people within the first 2 months of showcasing the #30days of learning program on twitter.
--  There has been an exponential increase in amount of tweet in June from the first month May.
+
+   -  
 "The Oyinbooke" is the most active user of the hashtags.
 61% of those engaging with the hashtag do it using Android devices.
 Just 9% of the users tweet with iPhone.
