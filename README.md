@@ -51,17 +51,18 @@ A business manager of a consumer credit card portfolio is facing the problem of 
 
 
 
+## Analysis and Visualization
 
-## Data Analysis Concepts/Skills Demonstrated 
+![](Pictures/demographic.png)
+![](Pictures/avg_ut_vs_credit_lim.png)
 
-1. __Data cleaning:__ _It involves identifying and removing irrelevant or redundant columns and renaming the columns to make them more descriptive and consistent with the content of the dataset. This improves the quality and usability of the data for analysis and modeling purposes._
-2. __MySQL Database:__ _Utilize the MySQL database to manually create the tables for the cleaned dataset_
-3. __SQL Queries:__ _It involves writing queries for the dataset using SQL to gain insights from the database. Different concepts of SQL has been used in this process, such as_
-    - aggregating the data, 
-    - grouping the data, 
-    - ordering the data,
-    - joining the tables
-    - sub queries etc
+![](Pictures/KI_1.png)
+
+It appears that there are more positive reviews than negative ones, however the dataset does not follow the normal data trend. 
+In support of our hypothesis based on Table 1, Table 2 shows the supporting data.
+
+![](Pictures/KI_2.png)
+![](Pictures/customer_profile.png)
 
 
 
